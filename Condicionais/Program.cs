@@ -9,20 +9,16 @@ class Programa
         int idadeJoao = 16;
         int quantidadePessoas = 2;
 
-        if (idadeJoao >= 18)
+        bool acompanhado = quantidadePessoas > 1;
+        bool grupo = true;
+
+        if (idadeJoao >= 18 || acompanhado)
         {
             Console.WriteLine("Pode entrar!");
         }
         else
         {
-            if (quantidadePessoas > 1)
-            {
-                Console.WriteLine("Está acompanhado. Pode entrar!");
-            }
-            else
-            {
-                Console.WriteLine("Não pode entrar.");
-            }
+            Console.WriteLine("Não pode entrar.");
         }
 
         Console.WriteLine("Tecle Enter para fechar...");
