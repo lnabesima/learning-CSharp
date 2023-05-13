@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoVariaveis", "Criando
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisPontoFlutuante", "VariaveisPontoFlutuante\VariaveisPontoFlutuante.csproj", "{9F0AD4D7-EAFD-4564-B656-EE7BE73D9AC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesOutrosTiposDeVariaveis", "ConversoesOutrosTiposDeVariaveis\ConversoesOutrosTiposDeVariaveis.csproj", "{DE178ADA-801B-471A-9BEC-EEDE59DA74FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9F0AD4D7-EAFD-4564-B656-EE7BE73D9AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0AD4D7-EAFD-4564-B656-EE7BE73D9AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F0AD4D7-EAFD-4564-B656-EE7BE73D9AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE178ADA-801B-471A-9BEC-EEDE59DA74FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE178ADA-801B-471A-9BEC-EEDE59DA74FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE178ADA-801B-471A-9BEC-EEDE59DA74FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE178ADA-801B-471A-9BEC-EEDE59DA74FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
