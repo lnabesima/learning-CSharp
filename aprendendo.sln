@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestimentoLongoPrazo", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncadeandoLoop", "EncadeandoLoop\EncadeandoLoop.csproj", "{9D74D28C-E84A-4100-A626-59708FC07501}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplos3Loop", "Multiplos3Loop\Multiplos3Loop.csproj", "{33F4A6E1-C2D1-42BE-BE22-31E03F8BCA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{8C6453CB-0DCE-4FBC-B64E-F38EFBC30D61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{9D74D28C-E84A-4100-A626-59708FC07501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D74D28C-E84A-4100-A626-59708FC07501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D74D28C-E84A-4100-A626-59708FC07501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F4A6E1-C2D1-42BE-BE22-31E03F8BCA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F4A6E1-C2D1-42BE-BE22-31E03F8BCA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F4A6E1-C2D1-42BE-BE22-31E03F8BCA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F4A6E1-C2D1-42BE-BE22-31E03F8BCA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6453CB-0DCE-4FBC-B64E-F38EFBC30D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6453CB-0DCE-4FBC-B64E-F38EFBC30D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6453CB-0DCE-4FBC-B64E-F38EFBC30D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6453CB-0DCE-4FBC-B64E-F38EFBC30D61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
